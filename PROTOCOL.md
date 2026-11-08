@@ -1,4 +1,4 @@
-# Lenovo Legion M300s RGB (17ef:6132) – lighting protocol notes
+# Lenovo Legion M300s RGB (17ef:6132) – protocol notes (lighting, DPI, polling rate)
 
 Source: usbmon capture of Legion Accessory Central (Win10 VM), capture1.pcapng.
 
